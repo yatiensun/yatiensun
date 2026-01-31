@@ -4,7 +4,6 @@ Master’s student in Global Supply Chain Management (KEDGE Business School, Fra
 I build Excel-based decision models and turn data into clear insights for supply chain and operations.
 
 📍 Bordeaux, France  
-📫 yatien.sun@gmail.com | linkedin.com/in/yatien-sun
 
 ---
 
