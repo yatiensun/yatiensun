@@ -12,13 +12,7 @@ I build Excel-based decision models and turn data into clear insights for supply
 - Strengths: Excel modeling, KPI reporting, scenario analysis, storytelling with slides
 - Tools: Excel, Tableau, PowerPoint
 - Languages: Mandarin (Native) | English (Fluent) | French (B1) | Korean (Intermediate)
-
----
-
-## 🎯 Mission
-- Build a strong portfolio of supply chain projects with measurable outcomes
-- Secure a 6-month internship in Europe starting **June 2026**
-- Share projects and insights on **LinkedIn** (case studies, dashboards, models)
+- Secure a 6-month internship starting **June 2026**
 
 ---
 
