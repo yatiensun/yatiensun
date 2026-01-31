@@ -29,7 +29,7 @@ I build Excel-based decision models and turn data into clear insights for supply
 - **My work:** Built decision logic, tracked KPIs, and summarized performance with charts and a final recommendation.
 - **Tools:** Excel
 - **Deliverables:** KPI dashboard + decision summary
-- **Link:** (add repo link)
+- **Link:** https://github.com/yatiensun/ilog-supply-chain-simulation/tree/main
 
 ---
 
