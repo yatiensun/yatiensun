@@ -28,7 +28,7 @@ I build Excel-based decision models and turn data into clear insights for supply
 Interactive dashboards turning supply chain data into clear KPIs, trends, and decision-ready visuals.  
 **Tools:** Tableau
 
-### 📦 [i-Log Supply Chain Simulation (12 Periods)](link)
+### 📦 [i-Log Supply Chain Simulation (12 Periods)](https://github.com/yatiensun/ilog-supply-chain-simulation)
 End-to-end planning simulation across 12 periods — purchasing, production, and store distribution with KPI tracking and insights.  
 **Tools:** Excel
 
