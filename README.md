@@ -37,7 +37,7 @@ I build Excel-based decision models and turn data into clear insights for supply
 ### 2) Network Design: Locations & Suppliers
 - **Goal:** Evaluate facility location and supplier allocation options under cost, lead time, and capacity constraints.
 - **My work:** Compared scenarios and recommended the best network setup using structured assumptions and sensitivity checks.
-- **Tools:** Excel / (add: Python if used)
+- **Tools:** Excel
 - **Deliverables:** scenario comparison tables + final recommendation
 - **Link:** (add repo link)
 
@@ -64,7 +64,7 @@ I build Excel-based decision models and turn data into clear insights for supply
 ### 5) Transport & Urban Logistics (Case Study / Analysis)
 - **Goal:** Analyze transport solutions and impacts (cost, emissions, service level) and propose improvements.
 - **My work:** Structured case studies and translated insights into recommendations.
-- **Tools:** PowerPoint / Word / (add: Excel if used)
+- **Tools:** PowerPoint / Word
 - **Deliverables:** case study brief + recommendations
 - **Link:** (add repo link)
 
@@ -77,7 +77,7 @@ I build Excel-based decision models and turn data into clear insights for supply
 ---
 
 ## 🔗 Connect
-- LinkedIn: linkedin.com/in/yatien-sun
+- LinkedIn: https://www.linkedin.com/in/yatien-sun/
 - Email: yatien.sun@gmail.com
 
 ⚡ Fun fact: I love traveling and capturing stories through video.
